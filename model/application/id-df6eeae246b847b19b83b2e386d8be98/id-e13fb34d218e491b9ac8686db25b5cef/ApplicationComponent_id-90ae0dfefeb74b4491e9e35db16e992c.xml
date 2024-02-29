@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOEX KASE"
+    id="id-90ae0dfefeb74b4491e9e35db16e992c"
+    documentation="Система предназначенная для автоматической загрузки рыночных данных (инструменты, свечи, сделки и др.) из различных источников и хранения их в локальном хранилище&#x9;Business operational&#x9;&#xD;&#xA;Распеков Д.У.&#x9;Тюлюкин А.С.&#x9;Есть внешняя ТП"/>

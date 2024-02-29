@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IVR"
+    id="id-78c8e3a433b04b6f8d4e1938317c7249"
+    documentation="Interactive Voice Response – интерактивные голосовые сервисы - система предварительно записанных голосовых сообщений, выполняющая функцию маршрутизации звонков внутри call-центра с использованием информации, вводимой клиентом на клавиатуре телефона.&#xD;&#xA;Business critical&#x9;&#xD;&#xA;Красильников В.Ю.&#x9;Филонцев А.Н.&#x9;Сивков Олег"/>

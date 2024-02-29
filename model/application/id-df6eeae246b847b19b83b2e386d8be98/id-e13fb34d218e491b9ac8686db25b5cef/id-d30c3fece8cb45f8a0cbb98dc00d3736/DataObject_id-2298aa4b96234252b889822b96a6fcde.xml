@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM_CLIENT"
+    id="id-2298aa4b96234252b889822b96a6fcde"
+    documentation="ИК – данные Идеального Клиента. Хранятся в схеме DWH, чаще всего вместе с другими субъектами в тех же таблицах.">
+  <properties
+      key="ID_IDEALSUBJECT "
+      value="ID Золотой Записи"/>
+  <properties
+      key="ID_SUBJECT "
+      value="ID субъекта СИ"/>
+</archimate:DataObject>

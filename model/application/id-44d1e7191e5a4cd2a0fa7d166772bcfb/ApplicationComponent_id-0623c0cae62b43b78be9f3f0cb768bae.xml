@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ЛК PayDA"
+    id="id-0623c0cae62b43b78be9f3f0cb768bae"
+    documentation="Автоматизированная информационная система. Приложение, отображающее все транзакции партнера по карточному продукту PayDA в режиме онлайн, комиссии, возмещения с возможностью выгрузки файлов в различных форматах.&#x9;Business operational&#x9;&#xD;&#xA;Уразымбетов Б.С.&#x9;Внешний&#x9;ТП нет, есть внешняя"/>

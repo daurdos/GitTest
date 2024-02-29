@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archive Services"
+    id="id-c474ba91ed1b4a9eab99a5d4dc2d4e14"
+    documentation="Example of use:&#xA;Infrequently accessed documents are archived to lower cost storage in compliance with banking regulations&#xA;&#xA;General comment:&#xA;This service domain operates a physical and electronic long term archiving capability that backs up Document Services&#xA;&#xA;Business Purpose&#xA;:  Provide long term archiving and retrieval services for documents and electronic media&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Редко используемые документы архивируются для более дешевого хранения в соответствии с банковскими правилами&#xA;&#xA;Общее замечание:&#xA;В этом домене услуг работает физическая и электронная возможность долгосрочного архивирования, резервное копирование служб документов&#xA;&#xA;деловая цель&#xA;: Предоставление услуг долгосрочного архивирования и поиска документов и электронных носителей информации&#xA;"/>

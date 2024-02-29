@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LDR_BF"
+    id="id-28d168bd95194756a0cf76e40dd81941"
+    documentation="Буфер – схема (LDR_BF) в БД MDM. Входит в состав дистрибутива системы RSDH. Используется для временного хранения и последовательной обработки небольшого объёма данных из Шлюза, для последующей загрузки в DWH или в корзину."/>

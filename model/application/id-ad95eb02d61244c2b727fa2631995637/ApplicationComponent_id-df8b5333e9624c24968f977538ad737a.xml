@@ -1,0 +1,13 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RS-Банк"
+    id="id-df8b5333e9624c24968f977538ad737a">
+  <properties
+      key="Report:Model:Cover:Background"/>
+  <properties
+      key="Report:View:Detailed"
+      value="Mission critical"/>
+  <properties
+      key="Report:Model:Header:Background"
+      value="Автоматизированная банковская информационная система"/>
+</archimate:ApplicationComponent>

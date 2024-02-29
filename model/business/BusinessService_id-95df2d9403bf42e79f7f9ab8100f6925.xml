@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Building Maintenance"
+    id="id-95df2d9403bf42e79f7f9ab8100f6925"
+    documentation=" Example of use:&#xA;Building and repair work is scheduled and undertaken using contractors at a bank branch location&#xA;&#xA;General comment:&#xA;This service domain administers the building maintenance resources, handling site repairs and scheduling regular site maintenance and refurbishment activity.&#xA;&#xA;&#xA;Business Purpose&#xA;:  Administer and execute site and utility maintenance and repair activities (building refit and decoration etc.)&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Строительные и ремонтные работы планируется и осуществляется с использованием подрядчиков в филиале банка&#xA;&#xA;Общее замечание:&#xA;Этот домен обслуживает здания ресурсов, технического обслуживания ремонта и планирование регулярной веб-сайт по обслуживанию и ремонт.&#xA;&#xA;&#xA;деловая цель&#xA;: Администрирование и выполнение работ по техническому обслуживанию и ремонту мест и комунальных сооружений (ремонт и отделка зданий и т.д.)&#xA;"/>

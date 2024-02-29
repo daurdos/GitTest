@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LDR_SH"
+    id="id-3e028ddcb46c41d7b71bbc9797f5c592"
+    documentation=" Шлюз – схема (LDR_SH) в БД MDM. Входит в состав дистрибутива системы RSDH. Используется для временного хранения актуальных данных из LDR, для более быстрой последующей обработки и загрузки."/>

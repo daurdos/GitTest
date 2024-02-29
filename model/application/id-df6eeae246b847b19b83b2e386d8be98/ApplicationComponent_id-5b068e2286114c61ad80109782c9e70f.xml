@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BankAPI2.0"
+    id="id-5b068e2286114c61ad80109782c9e70f"
+    documentation="Ранее Banking Services (WEB API)&#xD;&#xA;Приложение позволяющее посредством WEB сервисов предоставлять доступ к банковским операциям для внешних источников (Агентов). 1. Пополнение депозита 2. Погашение кредита&#xD;&#xA;Исаев А&#x9;Внутренняя разработка, доков нет, ЦБ"/>

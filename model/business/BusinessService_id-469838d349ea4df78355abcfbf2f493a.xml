@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Company Billing &amp; Payments"
+    id="id-469838d349ea4df78355abcfbf2f493a"
+    documentation="Example of use:&#xA;Company payments are processed&#xA;&#xA;General comment:&#xA;Central administration of billing and payments activity for purchases and potentially sales handled at the corporate level. Note this covers non-product or service activity and could be further broken down with more detailed analysis&#xA;&#xA;Business Purpose&#xA;:  Handle the company billing and payments activity for company sales and purchases&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Платежи компании обрабатываются&#xA;&#xA;Общее замечание:&#xA;Централизованное управление выставлением счетов и платежами за покупки и потенциально продажи на корпоративном уровне. Обратите внимание, это касается не продукта или сервисной деятельности, могут быть разбиты с более детального анализа&#xA;&#xA;деловая цель&#xA;: Обработка деятельности по выставлению счетов и платежам компании для продаж и покупок компании"/>

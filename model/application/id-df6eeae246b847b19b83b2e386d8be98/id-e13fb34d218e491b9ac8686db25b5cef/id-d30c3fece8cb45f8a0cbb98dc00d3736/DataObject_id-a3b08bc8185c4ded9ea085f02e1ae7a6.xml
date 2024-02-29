@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LDR"
+    id="id-a3b08bc8185c4ded9ea085f02e1ae7a6"
+    documentation="LDR – одноимённая схема в БД MDM, в которой хранятся исходные (необработанные) данные, полученные из Систем-источников, а также данные, предназначенные для чтения сторонними системами."/>

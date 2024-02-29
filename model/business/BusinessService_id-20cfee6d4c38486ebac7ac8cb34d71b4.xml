@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Compliance"
+    id="id-20cfee6d4c38486ebac7ac8cb34d71b4"
+    documentation="Example of use:&#xA;A business unit misses its first qtr targets and reacts with corrective actions that are tracked&#xA;&#xA;General comment:&#xA;This service domain is responsible for overseeing and tracking the resolution of activities initiated to correct financial irregularities detected by financial control.&#xA;&#xA;Business Purpose&#xA;:  Track the resolution of detected non compliance finance activities and instances&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Организация пропускает свои первые целевые _квартальные_  показатели  и реагирует с отслеживаемыми корректирующиеми действиями&#xA;&#xA;Общее замечание:&#xA;Эта область услуг отвечает за контроль и отслеживание действий, инициированных для исправления финансовых нарушений, выявленных финансовым контролем.&#xA;&#xA;деловая цель&#xA;: Отслеживание разрешения обнаруженных несоответствий финансовой деятельности и экземпляров&#xA;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAS CDB"
+    id="id-dbc3ab29f5dd4039abc5e2980400ae02"
+    documentation="Витрина данных, используется для сбора информации, необходимой  для построения кампании и построения отчетности&#x9;Business critical&#x9;&#xD;&#xA;Барманкулов А.О.&#x9;Тюлюкин А.С.&#x9;Вендор и доки есть"/>

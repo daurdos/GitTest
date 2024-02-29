@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Трудовые договоры, ДВУ, ДИ"
+    id="id-88dcd19f5b5b464c86d9f4af920110dc"
+    documentation="Example of use:&#xA;A new employees contract is set up&#xA;&#xA;General comment:&#xA;This service domain administers the employment contract for permanent and contract personnel, including periodic maintenance activities to ensure the contractual terms are both appropriate and in compliance as necessary&#xA;&#xA;Business Purpose&#xA;:  Negotiate and maintain the employment contract for full, part time and contract workforce members&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Настроен новый контракт сотрудников&#xA;&#xA;Общее замечание:&#xA;Этот домен обслуживает трудовой договор для постоянного и контрактники, в том числе периодические профилактические мероприятия по обеспечению условий договора своевременно и в соответствии по мере необходимости&#xA;&#xA;деловая цель&#xA;: Вести переговоры и поддерживать трудовой договор для полных, неполный рабочий день и контракт членов рабочей силы&#xA;"/>

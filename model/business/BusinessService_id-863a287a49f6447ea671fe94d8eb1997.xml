@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systems Assurance"
+    id="id-863a287a49f6447ea671fe94d8eb1997"
+    documentation="Example of use:&#xA;A new operating system release for desktop systems is worked through production&#xA;&#xA;General comment:&#xA;This service domain is responsible for the scheduled maintenance, version release/upgrades and major repairs/fixes and replacements of the IT infrastructure of the enterprise&#xA;&#xA;Business Purpose&#xA;:  Orchestrate scheduled maintenance, installation/upgrades and repairs/fixes or the IT infrastructure and production platforms&#xA;&#xA;&#xA;&#xA;&#xA;Пример использования:&#xA;Новый релиз операционной системы для настольных систем прорабатывается через производство&#xA;&#xA;Общее замечание:&#xA;Этот сервисный домен отвечает за плановое обслуживание, выпуск/обновление версий и капитальный ремонт/исправления и замены ИТ-инфраструктуры предприятия&#xA;&#xA;деловая цель&#xA;: Организация планового обслуживания, установки / обновления и ремонта / исправлений или ИТ-инфраструктуры и производственных платформ&#xA;"/>
